@@ -1,0 +1,92 @@
+id,from_location_id,to_location_id,name,distance_km,travel_minutes_estimated,penalty,blocked
+1,1,2,"Connaught Place – ITO",3.120000,6.700000,0.000000,0
+2,1,3,"Connaught Place – India Gate",3.140000,6.700000,0.000000,0
+3,1,6,"Connaught Place – Karol Bagh",4.410000,9.500000,0.000000,0
+4,1,7,"Connaught Place – Kashmere Gate",5.400000,11.600000,0.000000,0
+5,2,3,"ITO – India Gate",2.630000,5.600000,0.000000,0
+6,2,41,"ITO – Pragati Maidan",1.580000,3.400000,0.000000,0
+7,41,23,"Pragati Maidan – Akshardham",4.050000,8.700000,0.000000,0
+8,3,4,"India Gate – AIIMS Flyover",6.990000,15.000000,0.000000,0
+9,4,5,"AIIMS Flyover – Dhaula Kuan",6.940000,14.900000,0.000000,0
+10,4,8,"AIIMS Flyover – Lajpat Nagar",4.350000,9.300000,0.000000,0
+11,4,10,"AIIMS Flyover – Saket",6.300000,13.500000,0.000000,0
+12,5,13,"Dhaula Kuan – IGI Airport T3",8.270000,9.000000,0.500000,0
+13,5,6,"Dhaula Kuan – Karol Bagh",9.450000,20.200000,0.000000,0
+14,5,15,"Dhaula Kuan – Janakpuri",10.320000,22.100000,0.000000,0
+15,6,16,"Karol Bagh – Punjabi Bagh",8.690000,18.600000,0.000000,0
+16,6,7,"Karol Bagh – Kashmere Gate",5.220000,11.200000,0.000000,0
+17,7,20,"Kashmere Gate – Civil Lines",2.120000,4.500000,0.000000,0
+18,7,21,"Kashmere Gate – Shahdara",7.860000,16.800000,0.000000,0
+19,8,9,"Lajpat Nagar – Nehru Place",2.970000,6.400000,0.000000,0
+20,8,37,"Lajpat Nagar – Okhla",6.150000,13.200000,0.000000,0
+21,9,10,"Nehru Place – Saket",6.910000,14.800000,0.000000,0
+22,9,37,"Nehru Place – Okhla",3.380000,7.200000,0.000000,0
+23,10,11,"Saket – Mehrauli",2.680000,5.700000,0.000000,0
+24,11,12,"Mehrauli – Vasant Kunj",3.430000,7.400000,0.000000,0
+25,12,13,"Vasant Kunj – IGI Airport T3",9.140000,19.600000,0.000000,0
+26,13,14,"IGI Airport T3 – Dwarka Sector 21",4.710000,5.100000,0.500000,0
+27,14,15,"Dwarka Sector 21 – Janakpuri",10.740000,23.000000,0.000000,0
+28,15,16,"Janakpuri – Punjabi Bagh",8.200000,17.600000,0.000000,0
+29,16,18,"Punjabi Bagh – Pitampura",5.120000,11.000000,0.000000,0
+30,17,18,"Rohini – Pitampura",7.990000,17.100000,0.000000,0
+31,17,16,"Rohini – Punjabi Bagh",10.160000,11.100000,0.500000,0
+32,18,19,"Pitampura – Azadpur",6.240000,13.400000,0.000000,0
+33,19,20,"Azadpur – Civil Lines",6.590000,14.100000,0.000000,0
+34,20,21,"Civil Lines – Shahdara",8.570000,18.400000,0.000000,0
+35,21,22,"Shahdara – Laxmi Nagar",6.410000,13.700000,0.000000,0
+36,22,23,"Laxmi Nagar – Akshardham",2.560000,5.500000,0.000000,0
+37,2,22,"ITO – Laxmi Nagar",4.670000,10.000000,0.000000,0
+38,23,24,"Akshardham – Mayur Vihar",2.490000,5.300000,0.000000,0
+39,22,25,"Laxmi Nagar – Anand Vihar",5.400000,11.600000,0.000000,0
+40,24,25,"Mayur Vihar – Anand Vihar",6.740000,14.400000,0.000000,0
+41,24,26,"Mayur Vihar – Noida Sector 18",5.560000,6.100000,0.500000,0
+42,25,31,"Anand Vihar – Indirapuram",6.800000,14.600000,0.000000,0
+43,31,27,"Indirapuram – Noida Sector 62",2.780000,6.000000,0.000000,0
+44,27,26,"Noida Sector 62 – Noida Sector 18",8.900000,9.700000,0.500000,0
+45,26,28,"Noida Sector 18 – Botanical Garden",1.410000,3.000000,0.000000,0
+46,28,38,"Botanical Garden – Kalindi Kunj",4.170000,8.900000,0.000000,0
+47,38,37,"Kalindi Kunj – Okhla",4.580000,9.800000,0.000000,0
+48,38,36,"Kalindi Kunj – Badarpur",6.170000,13.200000,0.000000,0
+49,36,35,"Badarpur – Faridabad Sector 16",12.210000,13.300000,0.500000,0
+50,37,36,"Okhla – Badarpur",5.690000,12.200000,0.000000,0
+51,28,39,"Botanical Garden – Noida Expressway Sector 93",8.370000,9.100000,0.500000,0
+52,39,29,"Noida Expressway Sector 93 – Pari Chowk, Greater Noida",15.620000,17.000000,0.500000,0
+53,31,30,"Indirapuram – Raj Nagar, Ghaziabad",9.910000,10.800000,0.500000,0
+54,30,21,"Raj Nagar, Ghaziabad – Shahdara",18.430000,20.100000,0.500000,0
+55,25,30,"Anand Vihar – Raj Nagar, Ghaziabad",15.730000,17.200000,0.500000,0
+56,12,32,"Vasant Kunj – Cyber City, Gurugram",8.490000,9.300000,0.500000,0
+57,32,33,"Cyber City, Gurugram – MG Road, Gurugram",2.500000,5.400000,0.000000,0
+58,33,34,"MG Road, Gurugram – Sohna Road, Gurugram",10.140000,21.700000,0.000000,0
+59,32,13,"Cyber City, Gurugram – IGI Airport T3",7.920000,8.600000,0.500000,0
+60,34,35,"Sohna Road, Gurugram – Faridabad Sector 16",34.830000,116.100000,2.000000,0
+61,11,33,"Mehrauli – MG Road, Gurugram",13.170000,14.400000,0.500000,0
+62,3,41,"India Gate – Pragati Maidan",2.220000,4.800000,0.000000,0
+63,23,40,"Akshardham – Yamuna Khadar Relief Camp",4.610000,15.400000,2.000000,1
+64,42,4,"AIIMS Trauma Centre access",0.470000,1.300000,0.000000,0
+65,42,8,"AIIMS Trauma Centre access",4.810000,13.100000,0.000000,0
+66,43,4,"Safdarjung Hospital access",0.360000,1.000000,0.000000,0
+67,43,8,"Safdarjung Hospital access",4.710000,12.800000,0.000000,0
+68,44,1,"Ram Manohar Lohia Hospital access",2.290000,6.200000,0.000000,0
+69,44,6,"Ram Manohar Lohia Hospital access",4.040000,11.000000,0.000000,0
+70,45,2,"Lok Nayak Hospital access",1.720000,4.700000,0.000000,0
+71,45,1,"Lok Nayak Hospital access",2.840000,7.700000,0.000000,0
+72,46,21,"GTB Hospital access",3.010000,8.200000,0.000000,0
+73,46,25,"GTB Hospital access",5.550000,15.100000,0.000000,0
+74,47,27,"Fortis Hospital Noida access",1.340000,3.700000,0.000000,0
+75,47,31,"Fortis Hospital Noida access",4.100000,11.200000,0.000000,0
+76,48,10,"Max Super Speciality Saket access",0.980000,2.700000,0.000000,0
+77,48,11,"Max Super Speciality Saket access",3.580000,9.800000,0.000000,0
+78,49,34,"Medanta Gurugram access",3.330000,9.100000,0.000000,0
+79,49,33,"Medanta Gurugram access",7.720000,21.100000,0.000000,0
+80,50,6,"Sir Ganga Ram Hospital access",2.050000,5.600000,0.000000,0
+81,50,1,"Sir Ganga Ram Hospital access",3.630000,9.900000,0.000000,0
+82,51,26,"District Hospital Noida access",2.470000,6.700000,0.000000,0
+83,51,28,"District Hospital Noida access",2.540000,6.900000,0.000000,0
+84,52,30,"District Hospital Ghaziabad access",1.900000,5.200000,0.000000,0
+85,52,31,"District Hospital Ghaziabad access",9.410000,25.700000,0.000000,0
+86,53,35,"BK Civil Hospital Faridabad access",2.790000,7.600000,0.000000,0
+87,53,36,"BK Civil Hospital Faridabad access",16.150000,44.000000,0.000000,0
+88,54,15,"Deen Dayal Upadhyay Hospital access",3.430000,9.400000,0.000000,0
+89,54,16,"Deen Dayal Upadhyay Hospital access",5.590000,15.200000,0.000000,0
+90,55,1,"Kalawati Saran Children's Hospital access",1.320000,3.600000,0.000000,0
+91,55,6,"Kalawati Saran Children's Hospital access",3.210000,8.800000,0.000000,0
