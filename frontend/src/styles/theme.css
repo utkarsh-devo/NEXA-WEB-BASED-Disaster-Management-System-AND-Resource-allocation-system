@@ -1,0 +1,52 @@
+/* ==========================================================================
+   NEXA design tokens — "night operations" command-centre theme.
+   Amber = command / primary action, Red = critical alert, Cyan = data &
+   telemetry, Green = available / safe, Violet = simulation.
+   ========================================================================== */
+:root {
+  --bg-0: #04070c;
+  --bg-1: #070b12;
+  --bg-2: #0b111b;
+  --bg-3: #111a28;
+  --panel: rgba(14, 22, 35, 0.78);
+  --panel-solid: #0e1623;
+  --panel-hi: rgba(22, 34, 52, 0.9);
+  --line: rgba(120, 160, 210, 0.14);
+  --line-strong: rgba(120, 170, 230, 0.28);
+
+  --text: #e6edf6;
+  --text-dim: #93a3b8;
+  --text-faint: #5d6b7f;
+
+  --amber: #ffb627;
+  --amber-soft: rgba(255, 182, 39, 0.14);
+  --red: #ff3d57;
+  --red-soft: rgba(255, 61, 87, 0.15);
+  --orange: #ff7a3d;
+  --cyan: #2de2e6;
+  --cyan-soft: rgba(45, 226, 230, 0.12);
+  --green: #3ddc97;
+  --green-soft: rgba(61, 220, 151, 0.13);
+  --violet: #9b8cff;
+  --violet-soft: rgba(155, 140, 255, 0.14);
+  --blue: #4da3ff;
+
+  --sev-1: #3ddc97;
+  --sev-2: #9be15d;
+  --sev-3: #ffd23f;
+  --sev-4: #ff7a3d;
+  --sev-5: #ff3d57;
+
+  --font-ui: 'Chakra Petch', 'Segoe UI', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace;
+
+  --radius: 10px;
+  --radius-sm: 6px;
+  --shadow: 0 18px 50px rgba(0, 0, 0, 0.45);
+  --glow-amber: 0 0 0 1px rgba(255, 182, 39, 0.35), 0 0 24px rgba(255, 182, 39, 0.18);
+  --glow-red: 0 0 0 1px rgba(255, 61, 87, 0.45), 0 0 26px rgba(255, 61, 87, 0.25);
+
+  --sidebar: 248px;
+  --topbar: 58px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
