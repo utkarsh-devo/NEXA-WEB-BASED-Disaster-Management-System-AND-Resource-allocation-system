@@ -1,0 +1,56 @@
+id,name,kind,latitude,longitude
+1,"Connaught Place",junction,28.631500,77.216700
+2,"ITO",junction,28.628000,77.241000
+3,"India Gate",junction,28.612900,77.229500
+4,"AIIMS Flyover",junction,28.568000,77.209000
+5,"Dhaula Kuan",junction,28.591800,77.161500
+6,"Karol Bagh",junction,28.651900,77.190900
+7,"Kashmere Gate",junction,28.667500,77.228000
+8,"Lajpat Nagar",junction,28.567700,77.243300
+9,"Nehru Place",junction,28.549100,77.253300
+10,"Saket",junction,28.524500,77.206600
+11,"Mehrauli",junction,28.524400,77.185500
+12,"Vasant Kunj",junction,28.520000,77.159000
+13,"IGI Airport T3",junction,28.556200,77.100000
+14,"Dwarka Sector 21",junction,28.552300,77.058300
+15,"Janakpuri",junction,28.621900,77.087800
+16,"Punjabi Bagh",junction,28.668300,77.125000
+17,"Rohini",junction,28.738300,77.082200
+18,"Pitampura",junction,28.703300,77.131000
+19,"Azadpur",junction,28.707500,77.180000
+20,"Civil Lines",junction,28.681400,77.222600
+21,"Shahdara",junction,28.673500,77.289600
+22,"Laxmi Nagar",junction,28.630400,77.277700
+23,"Akshardham",junction,28.612700,77.277300
+24,"Mayur Vihar",junction,28.604300,77.294400
+25,"Anand Vihar",junction,28.646900,77.315900
+26,"Noida Sector 18",junction,28.570800,77.326000
+27,"Noida Sector 62",junction,28.627000,77.372700
+28,"Botanical Garden",junction,28.564100,77.334100
+29,"Pari Chowk, Greater Noida",junction,28.466500,77.513000
+30,"Raj Nagar, Ghaziabad",junction,28.669200,77.453800
+31,"Indirapuram",junction,28.646000,77.369500
+32,"Cyber City, Gurugram",junction,28.495000,77.089000
+33,"MG Road, Gurugram",junction,28.479600,77.080000
+34,"Sohna Road, Gurugram",junction,28.417000,77.044000
+35,"Faridabad Sector 16",junction,28.408900,77.317800
+36,"Badarpur",junction,28.503200,77.300600
+37,"Okhla",junction,28.535500,77.275000
+38,"Kalindi Kunj",junction,28.545200,77.309300
+39,"Noida Expressway Sector 93",junction,28.518000,77.387000
+40,"Yamuna Khadar Relief Camp",shelter,28.642000,77.263000
+41,"Pragati Maidan",junction,28.618000,77.246000
+42,"AIIMS Trauma Centre",hospital,28.567200,77.205800
+43,"Safdarjung Hospital",hospital,28.568500,77.206600
+44,"Ram Manohar Lohia Hospital",hospital,28.625600,77.200400
+45,"Lok Nayak Hospital",hospital,28.639000,77.237000
+46,"GTB Hospital",hospital,28.684500,77.309300
+47,"Fortis Hospital Noida",hospital,28.618100,77.372000
+48,"Max Super Speciality Saket",hospital,28.527400,77.213100
+49,"Medanta Gurugram",hospital,28.439500,77.040500
+50,"Sir Ganga Ram Hospital",hospital,28.638100,77.189500
+51,"District Hospital Noida",hospital,28.579900,77.342000
+52,"District Hospital Ghaziabad",hospital,28.665000,77.440000
+53,"BK Civil Hospital Faridabad",hospital,28.392000,77.308000
+54,"Deen Dayal Upadhyay Hospital",hospital,28.631700,77.112000
+55,"Kalawati Saran Children's Hospital",hospital,28.636300,77.208300
